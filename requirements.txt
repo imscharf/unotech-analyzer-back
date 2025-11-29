@@ -1,15 +1,7 @@
-# requirements.txt
-
-# Bibliotecas para Manipulação e Análise de Dados
 pandas
 numpy
-
-# Bibliotecas para Machine Learning (inclui Regressores)
 scikit-learn
-
-# Biblioteca para Salvar/Carregar Modelos
 joblib
-
-# Bibliotecas para API
 fastapi
 uvicorn
+python-multipart
